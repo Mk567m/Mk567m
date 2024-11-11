@@ -1,5 +1,5 @@
 print("Bismillah")
-print("")
+print("...........................")
 import random,os,shutil
 
 while True:
